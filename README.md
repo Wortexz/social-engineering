@@ -14,16 +14,16 @@ These "Bots" can see that that your account is new and they are going to SPAM yo
 ## **Everything is automated - Visiting fake online shop**  
 We can see a decently made online shop with a variety of products to choose from.  
 As you can see at the bottom of the chat there are options to select for pre-defined messages and instructions are given:  
-![v2](https://github.com/Wortexz/social-engineering/assets/26935578/f335f31f-ccb9-46cf-9ebe-1794b6975622)
+![v2](https://github.com/Wortexz/social-engineering/assets/26935578/7dc00a09-44a9-4c92-a04d-666ccab7e495)
+
 
 ## **Buying things from fake online shop "You only need to pay for "shipping"**  
 So we are following instructions and decided to add a few items and use their 100% discount code.  
 This is the step where we give away:
 * Collecting banking details
 * Our personal information (email, home address, name and more)
-  
-![v3](https://github.com/Wortexz/social-engineering/assets/26935578/7619c9ee-ab9e-4344-8f4f-60a5c5675783)
 
+![v3](https://github.com/Wortexz/social-engineering/assets/26935578/6df705c7-5f00-440e-af08-ce726a766c70)
 
 ## **Social engineering analysis**  
 **While their Instagram page looks great and "legit" we have to check in-depth:**  
